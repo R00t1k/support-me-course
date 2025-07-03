@@ -13,7 +13,6 @@ import {
   LaptopIcon,
   PartyPopperIcon,
   UserCheck2Icon,
-  UserCheckIcon,
   UserIcon,
   UserRoundXIcon,
 } from "lucide-react";
